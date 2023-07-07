@@ -18,9 +18,9 @@
 ### 👨‍💻 About Me:
 I am a Developer from India.
 
-- Currently in my 3rd Year of Computer Engineering.
-- I am a Frontend Web Developer.
-- Exploring Machine Learning right now.
+- Currently in my 4th Year of Computer Engineering.
+- Into Machine Learning.
+- Exploring Azure with AI right now.
 - Quite proficient in Content Writing.
 - Love to write poems in my free time and work on my on going novel.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/nisarg-kudgunti-948024206/)
